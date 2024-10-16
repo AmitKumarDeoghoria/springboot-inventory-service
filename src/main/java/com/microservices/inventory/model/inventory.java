@@ -19,6 +19,7 @@ public class inventory {
     private long id;
     private String skuCode;
     private Integer quantity;
+    private Integer batch;
 
 
 }
