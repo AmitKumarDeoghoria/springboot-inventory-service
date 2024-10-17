@@ -12,6 +12,10 @@ public class gitpractice {
         System.out.println(a-b);
         System.out.println(a*b);
         System.out.println(a/b);
+<<<<<<< HEAD
+=======
+        System.out.println("hello this is the final commit");
+>>>>>>> origin/git-final
 
     }
 
