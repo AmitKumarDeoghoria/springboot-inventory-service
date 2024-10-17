@@ -5,7 +5,6 @@ public class gitpractice {
     {
 
         System.out.println("Hey I am added again");
-        System.out.println("Hey I am about to be reverted");
     }
 
 
