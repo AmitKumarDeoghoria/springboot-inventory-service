@@ -20,6 +20,11 @@ public class gitpractice {
         return a1-a2;
 
     }
+    public static int  mean(int a1, int a2)
+    {
+        return (a1+a2)/2;
+
+    }
     public  static void main(String[]args)
     {
 
