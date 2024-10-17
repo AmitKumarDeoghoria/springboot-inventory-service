@@ -20,13 +20,10 @@ public class gitpractice {
         return a1-a2;
 
     }
-    public static int mean(int a, int b)
-    {
-        return (a+b)/2;
-    }
     public  static void main(String[]args)
     {
 
+        System.out.println("Hey I am added again");
         int a=2;
         int b=3;
 
@@ -39,7 +36,6 @@ public class gitpractice {
 
         System.out.println(sum(a,b));
         System.out.println(sub(a,b));
-        System.out.println(mean(a,b));
 
 
         System.out.print("hello this is message from main");
