@@ -12,11 +12,7 @@ public class gitpractice {
         System.out.println(a-b);
         System.out.println(a*b);
         System.out.println(a/b);
-<<<<<<< HEAD
-        System.out.println("here is our final merge");
-=======
 
->>>>>>> origin/main
     }
 
 
