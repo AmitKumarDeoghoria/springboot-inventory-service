@@ -36,8 +36,7 @@ public class gitpractice {
 
         System.out.println(sum(a,b));
         System.out.println(sub(a,b));
-        System.out.println(a*b);
-        System.out.println(a/b);
+
 
         System.out.print("hello this is message from main");
 
