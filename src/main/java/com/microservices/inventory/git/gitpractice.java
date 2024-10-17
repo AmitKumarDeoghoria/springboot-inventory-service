@@ -27,9 +27,7 @@ public class gitpractice {
         int a=2;
         int b=3;
 
-        int sum=a+b;
-        System.out.println(a+b);
-        System.out.println(a-b);
+
         System.out.println(mult(a,b));
         System.out.println(div(a,b));
 
