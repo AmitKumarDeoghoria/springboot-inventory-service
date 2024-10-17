@@ -20,29 +20,34 @@ public class gitpractice {
         return a1-a2;
 
     }
+
+    public static int square(int a)
+    {
+        return a*a;
+    }
     public  static void main(String[]args)
     {
 
         System.out.println("Hey I am added again");
         int a=2;
         int b=3;
-
-
-        System.out.println(mult(a,b));
-        System.out.println(div(a,b));
-
-
-
-
         System.out.println(sum(a,b));
         System.out.println(sub(a,b));
+        System.out.println(mult(a,b));
+        System.out.println(div(a,b));
+        System.out.println(square(a));
 
 
-        System.out.print("hello this is message from main");
 
 
-        System.out.println("Hey This is from main branch");
-        System.out.println("Hey main How are you? I am bug");
+
+
+
+
+
+
+
+
 
 
 
